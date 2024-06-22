@@ -1,0 +1,5 @@
+colorama==0.4.6
+hacktools @ git+https://github.com/Illidanz/hacktools.git@5f202a81c518669d20990319e942b5add9c07465
+ndspy==4.1.0
+pillow==10.3.0
+tqdm==4.66.4
